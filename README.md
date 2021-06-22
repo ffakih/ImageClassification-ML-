@@ -4,7 +4,7 @@ This Model predicts what the 28x28 images represent using neural networks.
 
 ## Description
 
-Taking hand-drawn images using MNIST database of the numbers 0-9 and build and train a neural network to recognize and predict the correct label for the digit displayed.
+Taking hand-drawn images using MNIST database of the numbers 0-9 and build and train a neural network to recognize and predict the correct label for the digit displayed. Achieved with 92% Accuracy
 
 ## Authors
 Firas fakih
